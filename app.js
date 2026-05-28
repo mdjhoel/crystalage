@@ -20,11 +20,11 @@ support.</p>
                     <p>Buying or selling? Our expert brokerage team ensures you net the best value in today's shifting market.</p>
                 </div>
                 <div class="card">
-                    <h3>General Contracting</h3>
+                    <h3>Propery Maintenance</h3>
                     <p>From minor custom renovations to full-scale commercial builds, our build quality stands the test of time.</p>
                 </div>
                 <div class="card">
-                    <h3>Leasing Solutions</h3>
+                    <h3>Rental/Leasing Solutions</h3>
                     <p>Explore luxury residential stays or highly optimized commercial rental spaces tailored for growth.</p>
                 </div>
             </div>
@@ -45,7 +45,7 @@ lasting value.</p>
 craftsmanship, thoughtful design, and attention to detail. As we continue to grow, we remain
 committed to creating modern spaces and developments that positively contribute to
 communities and stand the test of time.</p>
-            <img src="logo.png">
+            <img src="sold.jpeg">
         </div>
     `,
     residential: `
@@ -69,14 +69,31 @@ to growing communities while maintaining high standards of quality and attention
             <p>Browse our active catalog of available rental apartments, corporate leasing spaces, and retail storefronts.</p>
             <div class="grid">
                 <div class="card">
-                    <h4>The Grandview Apartments - Unit 402</h4>
+                    <h4>Coming soon ...</h4>
                     <p>2 Bed, 2 Bath | Modern Amenities | $2,400/mo</p>
                 </div>
                 <div class="card">
-                    <h4>Oak & Main Commercial Suite</h4>
+                    <h4>Coming soon ...</h4>
                     <p>1,500 sq ft | Prime Retail Frontage | Contact for Lease Terms</p>
                 </div>
             </div>
+        </div>
+    `,
+    'current-forsale': `
+        <div class="page-fade">
+            <h1>Realty: Current Listings</h1>
+            <p>Browse our current selection of properties available for sale.</p>
+            <p>There are currently no active listings available for sale. Please check back soon for future updates.</p>
+        </div>
+    `,
+    'previous-sold': `
+        <div class="page-fade">
+            <h1>Realty: Past Successes</h1>
+            <p>Take a look at some of our recent sales.</p>
+            <ul>
+                <li><strong>Suite 101, Horizon Plaza</strong> - Leased in 14 days</li>
+                <li><strong>455 Laurel Lane</strong> - Premium residential estate, long-term lease secured</li>
+            </ul>
         </div>
     `,
     'previous-listings': `
@@ -98,7 +115,7 @@ to growing communities while maintaining high standards of quality and attention
     `,
     contracting: `
         <div class="page-fade">
-            <h1>General Contracting & Development</h1>
+            <h1>Property Maintenance</h1>
             <p>We build with precision. Our licensed contracting division handles architecture, engineering, project management, and final hand-off finishes.</p>
             <div class="grid">
                 <div class="card"><h4>Commercial Build-outs</h4><p>Office spaces, restaurants, and retail spaces optimized for workflows.</p></div>
