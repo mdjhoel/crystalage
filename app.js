@@ -58,8 +58,8 @@ designed to provide comfort, style, and practicality for modern living.</p>
 <p>We focus on delivering thoughtfully planned homes and developments that contribute positively
 to growing communities while maintaining high standards of quality and attention to detail.</p>
             <div class="grid">
-                <div class="card"><h4>Urban Condos</h4><p>Modern luxury in the heart of the city layout.</p></div>
-                <div class="card"><h4>Suburban Estates</h4><p>Spacious family living spaces featuring sustainable construction.</p></div>
+                <div class="card"><h4>Urban Residences</h4><p>Contemporary city living designed with elegance, comfort, and modern functionality in mind.</p></div>
+                <div class="card"><h4>Family Estates</h4><p>Spacious, thoughtfully planned homes built for lasting quality, comfort, and sustainable living.</p></div>
             </div>
         </div>
     `,
@@ -81,8 +81,8 @@ a well-maintained, responsive, and positive living experience.</p>
             <p>There are currently no active listings available for rent. Please check back soon for future updates.</p>
             <h2>Previous Listings</h2>
             <div class="grid">
-                <div class="card"><h4>Example 1</h4><p>Modern luxury in the heart of the city layout.</p></div>
-                <div class="card"><h4>Example 2</h4><p>Spacious family living spaces featuring sustainable construction.</p></div>
+                <div class="card"><h4>165 Valcour #358</h4><a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><img src='listings/valcour.jpg'></a><p>Leased</p></div>
+                <div class="card"><h4>35 Lian #5</h4><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><img src='listings/lian.jpg'></a><p>Leased</p></div>
             </div>
         </div>
     `,
@@ -145,8 +145,8 @@ achieve the best possible outcome with clarity, convenience, and professionalism
             <p>There are currently no active listings available for sale. Please check back soon for future updates.</p>
             <h2>Previous Listings</h2>
             <div class="grid">
-                <div class="card"><h4>Example 1</h4><p>Modern luxury in the heart of the city layout.</p></div>
-                <div class="card"><h4>Example 2</h4><p>Spacious family living spaces featuring sustainable construction.</p></div>
+                <div class="card"><h4>165 Valcour #358</h4><a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><img src='listings/valcour.jpg'></a><p>Leased</p></div>
+                <div class="card"><h4>35 Lian #5</h4><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><img src='listings/lian.jpg'></a><p>Leased</p></div>
             </div>
         </div>
     `,
@@ -161,6 +161,7 @@ repairs, finishing, and general maintenance solutions that help maintain and imp
 functionality, appearance, and value of every property we service.</p>
 <p>From small repairs to complete maintenance tasks, we take pride in providing dependable
 service, clear communication, and quality results that our clients can trust.</p>
+        <img src='work3.jpeg'>
         </div>
     `,
     contact: `
