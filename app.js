@@ -83,6 +83,7 @@ a well-maintained, responsive, and positive living experience.</p>
             <div class="grid">
                 <div class="card">
                     <a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><h4>35 Lian #5</h4></a>
+                    <br>
                     <div class="scroll-container">
                         <img src="listings/lian/6.jpg" width="640" height="403">
                         <img src="listings/lian/1.jpg" width="600" height="400">
@@ -91,9 +92,11 @@ a well-maintained, responsive, and positive living experience.</p>
                         <img src="listings/lian/4.jpg" width="600" height="400">
                         <img src="listings/lian/5.jpg" width="600" height="400">
                     </div>
+                    <br><p>Acquired</p>
                 </div>
                 <div class="card">
                     <a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><h4>165 Valcour #328</h4></a>
+                    <br>
                     <div class="scroll-container">
                         <img src="listings/valcour/8.jpg" width="640" height="403">
                         <img src="listings/valcour/1.jpg" width="600" height="400">
@@ -104,6 +107,7 @@ a well-maintained, responsive, and positive living experience.</p>
                         <img src="listings/valcour/6.jpg" width="600" height="400">
                         <img src="listings/valcour/7.jpg" width="600" height="400">
                     </div>
+                    <br><p>Acquired</p>
                 </div>
             </div>
         </div>
@@ -167,8 +171,9 @@ achieve the best possible outcome with clarity, convenience, and professionalism
             <p>There are currently no active listings available for sale. Please check back soon for future updates.</p>
             <h2>Previous Listings</h2>
             <div class="grid">
-                         <div class="card">
+                <div class="card">
                     <a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><h4>35 Lian #5</h4></a>
+                    <br>
                     <div class="scroll-container">
                         <img src="listings/lian/6.jpg" width="640" height="403">
                         <img src="listings/lian/1.jpg" width="600" height="400">
@@ -177,9 +182,11 @@ achieve the best possible outcome with clarity, convenience, and professionalism
                         <img src="listings/lian/4.jpg" width="600" height="400">
                         <img src="listings/lian/5.jpg" width="600" height="400">
                     </div>
+                    <br><p>Acquired</p>
                 </div>
                 <div class="card">
                     <a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><h4>165 Valcour #328</h4></a>
+                    <br>
                     <div class="scroll-container">
                         <img src="listings/valcour/8.jpg" width="640" height="403">
                         <img src="listings/valcour/1.jpg" width="600" height="400">
@@ -190,6 +197,7 @@ achieve the best possible outcome with clarity, convenience, and professionalism
                         <img src="listings/valcour/6.jpg" width="600" height="400">
                         <img src="listings/valcour/7.jpg" width="600" height="400">
                     </div>
+                    <br><p>Acquired</p>
                 </div>
             </div>
         </div>
