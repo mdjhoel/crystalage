@@ -14,11 +14,6 @@ body {
     min-height: 100vh;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 /* Header & Navigation */
 header {
     background-color: #1a252f;
@@ -45,6 +40,11 @@ nav {
     align-items: center;
     gap: 20px;
     background-color: #1a252f;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 nav a, .dropbtn {
@@ -165,6 +165,17 @@ footer {
     transition: all 0.3s ease-in-out;
 }
 
+    div.scroll-container {
+      background-color: #333;
+      overflow: auto;
+      white-space: nowrap;
+      padding: 10px;
+    }
+
+    div.scroll-container img {
+      padding: 10px;
+    }
+
 /* Responsive Media Query: 768px and down */
 @media (max-width: 768px) {
     .menu-toggle {
@@ -214,4 +225,5 @@ footer {
     .menu-toggle.open span:nth-child(3) {
         transform: translateY(-9px) rotate(-45deg);
     }
+
 }

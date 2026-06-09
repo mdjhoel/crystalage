@@ -81,8 +81,30 @@ a well-maintained, responsive, and positive living experience.</p>
             <p>There are currently no active listings available for rent. Please check back soon for future updates.</p>
             <h2>Previous Listings</h2>
             <div class="grid">
-                <div class="card"><h4>165 Valcour #358</h4><a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><img src='listings/valcour.jpg'></a><p>Leased</p></div>
-                <div class="card"><h4>35 Lian #5</h4><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><img src='listings/lian.jpg'></a><p>Leased</p></div>
+                <div class="card">
+                    <a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><h4>35 Lian #5</h4></a>
+                    <div class="scroll-container">
+                        <img src="listings/lian/6.jpg" width="640" height="403">
+                        <img src="listings/lian/1.jpg" width="600" height="400">
+                        <img src="listings/lian/2.jpg" width="600" height="400">
+                        <img src="listings/lian/3.jpg" width="600" height="400">
+                        <img src="listings/lian/4.jpg" width="600" height="400">
+                        <img src="listings/lian/5.jpg" width="600" height="400">
+                    </div>
+                </div>
+                <div class="card">
+                    <a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><h4>165 Valcour #328</h4></a>
+                    <div class="scroll-container">
+                        <img src="listings/valcour/8.jpg" width="640" height="403">
+                        <img src="listings/valcour/1.jpg" width="600" height="400">
+                        <img src="listings/valcour/2.jpg" width="600" height="400">
+                        <img src="listings/valcour/3.jpg" width="600" height="400">
+                        <img src="listings/valcour/4.jpg" width="600" height="400">
+                        <img src="listings/valcour/5.jpg" width="600" height="400">
+                        <img src="listings/valcour/6.jpg" width="600" height="400">
+                        <img src="listings/valcour/7.jpg" width="600" height="400">
+                    </div>
+                </div>
             </div>
         </div>
     `,
@@ -145,8 +167,30 @@ achieve the best possible outcome with clarity, convenience, and professionalism
             <p>There are currently no active listings available for sale. Please check back soon for future updates.</p>
             <h2>Previous Listings</h2>
             <div class="grid">
-                <div class="card"><h4>165 Valcour #358</h4><a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><img src='listings/valcour.jpg'></a><p>Leased</p></div>
-                <div class="card"><h4>35 Lian #5</h4><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><img src='listings/lian.jpg'></a><p>Leased</p></div>
+                         <div class="card">
+                    <a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'><h4>35 Lian #5</h4></a>
+                    <div class="scroll-container">
+                        <img src="listings/lian/6.jpg" width="640" height="403">
+                        <img src="listings/lian/1.jpg" width="600" height="400">
+                        <img src="listings/lian/2.jpg" width="600" height="400">
+                        <img src="listings/lian/3.jpg" width="600" height="400">
+                        <img src="listings/lian/4.jpg" width="600" height="400">
+                        <img src="listings/lian/5.jpg" width="600" height="400">
+                    </div>
+                </div>
+                <div class="card">
+                    <a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'><h4>165 Valcour #328</h4></a>
+                    <div class="scroll-container">
+                        <img src="listings/valcour/8.jpg" width="640" height="403">
+                        <img src="listings/valcour/1.jpg" width="600" height="400">
+                        <img src="listings/valcour/2.jpg" width="600" height="400">
+                        <img src="listings/valcour/3.jpg" width="600" height="400">
+                        <img src="listings/valcour/4.jpg" width="600" height="400">
+                        <img src="listings/valcour/5.jpg" width="600" height="400">
+                        <img src="listings/valcour/6.jpg" width="600" height="400">
+                        <img src="listings/valcour/7.jpg" width="600" height="400">
+                    </div>
+                </div>
             </div>
         </div>
     `,
