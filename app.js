@@ -222,7 +222,7 @@ service, clear communication, and quality results that our clients can trust.</p
                 </svg>
                 <div>
                     <strong style="display: block; font-size: 0.85rem; color: #888; text-transform: uppercase; letter-spacing: 0.5px;">Email Address</strong>
-                    <a href="mailto:oluwagbemi_ibikunle@yahoo.com" style="color: #2c3e50; text-decoration: none; font-weight: 500; transition: color 0.2s;" onmouseover="this.style.color='#f39c12'" onmouseout="this.style.color='#2c3e50'">oluwagbemi_ibikunle@yahoo.com</a>
+                    <a href="mailto:crystalagedev@mail.com" style="color: #2c3e50; text-decoration: none; font-weight: 500; transition: color 0.2s;" onmouseover="this.style.color='#f39c12'" onmouseout="this.style.color='#2c3e50'">oluwagbemi_ibikunle@yahoo.com</a>
                 </div>
             </div>
 
