@@ -78,11 +78,27 @@ within weeks of advertising.</p>
 services exclusively for Crystal Age Developments Group properties, ensuring our tenants enjoy
 a well-maintained, responsive, and positive living experience.</p>
             <h2>Current Listings</h2><br>
-            <p>There are currently no active listings available for rent. Please check back soon for future updates.</p>
+        <div class="grid grid-cols-2 gap-4">
+                <div class="card">
+                    <h4>Sylvya Ct</h4>
+                    <i style='font-size=8'>Scroll for pictures</i>
+                    <br><br>
+                    <div class="scroll-container">
+                        <img src="listings/sylvya/6.jpg" width="640" height="400">
+                        <img src="listings/sylvya/1.jpg" width="600" height="400">
+                        <img src="listings/sylvya/2.png" width="600" height="400">
+                        <img src="listings/sylvya/3.jpg" width="600" height="400">
+                        <img src="listings/sylvya/4.jpg" width="600" height="400">
+                        <img src="listings/sylvya/5.png" width="600" height="400">
+                    </div>
+                </div>
+            <div></div> <!-- empty grid cell -->
+            </div>
+            <br><br>
             <h2>Previous Listings</h2>
             <div class="grid">
                 <div class="card">
-                    <h4>35 Lian #5</h4>
+                    <h4>35 Lian</h4>
                     <i style='font-size=8'><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'>Click</a> for video, scroll for pictures</i>
                     <br><br>
                     <div class="scroll-container">
@@ -96,7 +112,7 @@ a well-maintained, responsive, and positive living experience.</p>
                     <br><p>Leased</p>
                 </div>
                 <div class="card">
-                    <h4>165 Valcour #328</h4>
+                    <h4>165 Valcour</h4>
                     <i style='font-size=8'><a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'>Click</a> for video, scroll for pictures</i>
                     <br><br>
                     <div class="scroll-container">
@@ -192,21 +208,7 @@ Licensed REALTOR® and brokerage.</p>
 
 
             <h2>Current Listings</h2><br>
-            <div class="grid grid-cols-2 gap-4">
-                <div class="card">
-                    <h4>Sylvya Ct</h4>
-                    <i style='font-size=8'>Scroll for pictures</i>
-                    <br><br>
-                    <div class="scroll-container">
-                        <img src="listings/sylvya/6.jpg" width="640" height="400">
-                        <img src="listings/sylvya/1.jpg" width="600" height="400">
-                        <img src="listings/sylvya/2.png" width="600" height="400">
-                        <img src="listings/sylvya/3.jpg" width="600" height="400">
-                        <img src="listings/sylvya/4.jpg" width="600" height="400">
-                        <img src="listings/sylvya/5.png" width="600" height="400">
-                    </div>
-                </div>
-            <div></div> <!-- empty grid cell -->
+            <p>No listing at the present.</p>
             </div>
             <br><br>
             <h2>Previous Listings</h2>
