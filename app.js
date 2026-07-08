@@ -20,7 +20,7 @@ support.</p>
                     <p>Buying or selling? Our expert brokerage team ensures you net the best value in today's shifting market.</p>
                 </div>
                 <div class="card">
-                    <h3>Propery Maintenance</h3>
+                    <h3>Property Maintenance</h3>
                     <p>Reliable property maintenance and renovation services focused on quality workmanship and lasting value.</p>
                 </div>
                 <div class="card">
@@ -160,21 +160,59 @@ a well-maintained, responsive, and positive living experience.</p>
     'realty': `
         <div class="page-fade">
             <h1>Realty</h1>
-            <p>Crystal Age Developments Group provides flexible realty support designed to make buying and
-selling property simple, efficient, and stress-free. We work in partnership with reliable and
-experienced realtors to help our clients successfully buy or sell their homes with confidence.
-For clients who prefer a more direct approach, we also offer assistance with private property
-sales without the use of a realtor. This gives homeowners and buyers greater control, reduced
-costs, and a more personalized transaction process.</p>
-<p>At Crystal Age Developments Group, we believe in giving our clients options. Whether through
-trusted real estate professionals or private sales support, we are committed to helping you
-achieve the best possible outcome with clarity, convenience, and professionalism.</p>
-             <h2>Current Listings</h2><br>
-            <p>There are currently no active listings available for sale. Please check back soon for future updates.</p>
+            <p>Crystal Age Developments Group provides property marketing, administrative, and client
+support services designed to assist property owners throughout the home selling process.</p>
+<p>We proudly work in partnership with a Licensed REALTOR® and brokerage to support clients
+who require regulated real estate services in connection with the purchase or sale of residential or
+commercial properties.</p>
+
+<p>Our support services may include:</p>
+<p >
+<ul>
+    <li>Property advertising and promotion</li>
+    <li>Social media and digital marketing</li>
+    <li>Coordination of photography and staging services</li>
+    <li>Administrative and scheduling support</li>
+    <li>Marketing coordination for private property sales</li>
+    <li>General client support services</li>
+</ul>
+</p>
+<p>For property owners choosing a FSBO (For Sale By Owner) approach, Crystal Age
+Developments Group may provide marketing and administrative support services while regulated
+real estate services are handled separately through our Licensed REALTOR® partner and
+brokerage where required.</p>
+<p>All regulated real estate services, including MLS listings, property representation, negotiations,
+contracts, disclosures, pricing advice, and transaction management, are provided exclusively by
+the Licensed REALTOR® and brokerage.</p>
+<p>Crystal Age Developments Group does not provide real estate brokerage services, legal advice,
+or licensed real estate representation services.
+Disclaimer: Crystal Age Developments Group is not a licensed real estate brokerage in New
+Brunswick. All regulated real estate services are provided independently through our partnered
+Licensed REALTOR® and brokerage.</p>
+
+
+            <h2>Current Listings</h2><br>
+            <div class="grid grid-cols-2 gap-4">
+                <div class="card">
+                    <h4>Sylvya Ct</h4>
+                    <i style='font-size=8'>Scroll for pictures</i>
+                    <br><br>
+                    <div class="scroll-container">
+                        <img src="listings/sylvya/6.jpg" width="640" height="400">
+                        <img src="listings/sylvya/1.jpg" width="600" height="400">
+                        <img src="listings/sylvya/2.png" width="600" height="400">
+                        <img src="listings/sylvya/3.jpg" width="600" height="400">
+                        <img src="listings/sylvya/4.jpg" width="600" height="400">
+                        <img src="listings/sylvya/5.png" width="600" height="400">
+                    </div>
+                </div>
+            <div></div> <!-- empty grid cell -->
+            </div>
+            <br><br>
             <h2>Previous Listings</h2>
             <div class="grid">
                 <div class="card">
-                    <h4>35 Lian #5</h4>
+                    <h4>35 Lian</h4>
                     <i style='font-size=8'><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'>Click</a> for video, scroll for pictures</i>
                     <br><br>
                     <div class="scroll-container">
@@ -188,7 +226,7 @@ achieve the best possible outcome with clarity, convenience, and professionalism
                     <br><p>Acquired</p>
                 </div>
                 <div class="card">
-                    <h4>165 Valcour #328</h4>
+                    <h4>165 Valcour</h4>
                     <i style='font-size=8'><a href='https://www.youtube.com/watch?v=-tEmr9SDEOE' target='_blank'>Click</a> for video, scroll for pictures</i>
                     <br><br>
                     <div class="scroll-container">
