@@ -80,6 +80,22 @@ a well-maintained, responsive, and positive living experience.</p>
             <h2>Current Listings</h2><br>
         <div class="grid grid-cols-2 gap-4">
                 <div class="card">
+                    <h4>Stapleton Street</h4>
+                    <i style='font-size=8'>Scroll for pictures</i>
+                    <br><br>
+                    <div class="scroll-container">
+                        <img src="listings/stapleton/1.jpg" width="600" height="400">
+                        <img src="listings/stapleton/2.jpg" width="600" height="400">
+                        <img src="listings/stapleton/3.jpg" width="600" height="400">
+                        <img src="listings/stapleton/4.jpg" width="600" height="400">
+                    </div>
+                </div>
+            <div></div> <!-- empty grid cell -->
+            </div>
+            <br><br>
+            <h2>Previous Listings</h2>
+            <div class="grid">
+                <div class="card">
                     <h4>Sylvya Ct</h4>
                     <i style='font-size=8'>Scroll for pictures</i>
                     <br><br>
@@ -91,12 +107,8 @@ a well-maintained, responsive, and positive living experience.</p>
                         <img src="listings/sylvya/4.jpg" width="600" height="400">
                         <img src="listings/sylvya/5.png" width="600" height="400">
                     </div>
+                <br><p>Leased</p>
                 </div>
-            <div></div> <!-- empty grid cell -->
-            </div>
-            <br><br>
-            <h2>Previous Listings</h2>
-            <div class="grid">
                 <div class="card">
                     <h4>35 Lian</h4>
                     <i style='font-size=8'><a href='https://www.youtube.com/watch?v=YKjYEq14AZ4' target='_blank'>Click</a> for video, scroll for pictures</i>
@@ -183,8 +195,8 @@ who require regulated real estate services in connection with the purchase or sa
 commercial properties.</p>
 
 <p>Our support services may include:</p>
-<p >
-<ul>
+<p>
+<ul style="margin-left:20px">
     <li>Property advertising and promotion</li>
     <li>Social media and digital marketing</li>
     <li>Coordination of photography and staging services</li>
@@ -248,16 +260,66 @@ Licensed REALTOR® and brokerage.</p>
     `,
     contracting: `
         <div class="page-fade">
-            <h1>Property Maintenance</h1>
-            <p>Crystal Age Developments Group provides professional property maintenance and residential
-contracting services designed to keep homes and buildings in excellent condition. We focus on
-delivering reliable, high-quality workmanship with efficiency, care, and attention to detail.
-Our services cover a wide range of interior, exterior, and installation works. This includes
-repairs, finishing, and general maintenance solutions that help maintain and improve the
-functionality, appearance, and value of every property we service.</p>
-<p>From small repairs to complete maintenance tasks, we take pride in providing dependable
-service, clear communication, and quality results that our clients can trust.</p>
-        <img src='work3.jpeg'>
+            <h1>Property Management</h1>
+            <h4>Reliable Management. Peace of Mind.</h4>
+            <p>CADG provides practical property management and rental support for property owners in the
+Fredericton area. We help with tenant placement, leasing, rent coordination, maintenance, and
+day-to-day property support.</p>
+            <ul style="margin-left:20px">
+                <li>Tenant placement and screening</li>
+                <li>Rental advertising and showings</li>
+                <li>Lease preparation and coordination</li>
+                <li>Rent collection and tracking</li>
+                <li>Tenant communication</li>
+                <li>Move-in and move-out coordination</li>
+                <li>Property inspections</li>
+                <li>Maintenance and repair coordination</li>
+                <li>General landlord support</li>
+            </ul>
+            <br>
+            <h4>Current Residential Portfolio</h4>
+            <br>
+            <h5>165 Lian Street</h5>
+            <p>1 Residential Unit</p>
+            <h5>35 Lian Street</h5>
+            <p>1 Residential Unit</p>
+            <h5>20 Stapleton Street</h5>
+            <p>1 Residential House</p>
+            <h5>Sylvya Court</h5>
+            <p>2 Residential Units</p>
+            <p>CADG currently supports 5 residential rental units across 4 properties in the Fredericton area.</p>
+            <h4>Owner-Focused Service</h4>
+            <p>We provide responsive, reliable support while keeping property owners informed and involved.</p>
+            <h4>Your Property. Our Support.</h4>
+        </div>
+    `,
+        renovations: `
+        <div class="page-fade">
+            <h1>General contracting</h1>
+            <h4>Quality Work. Practical Solutions.</h4>
+            <p>CADG provides residential general contracting, renovation, remodeling, and property
+improvement services for homeowners, landlords, and property owners.</p>
+            <ul style="margin-left:20px">
+                <li>Home renovations and remodeling</li>
+                <li>Basement finishing and renovations</li>
+                <li>Kitchen and bathroom upgrades</li>
+                <li>Drywall, flooring, painting, and trim</li>
+                <li>General repairs and improvements</li>
+                <li>Eavestrough installation and replacement</li>
+                <li>Exterior repairs and improvements</li>
+                <li>Deck and property upgrades</li>
+                <li>Rental property renovations</li>
+                <li>Project coordination</li>
+            </ul>
+            <br>
+            <p>Whether it is a small repair or a larger renovation, CADG focuses on quality workmanship, clear
+communication, and dependable service.</p>
+            <h4>Built Around Your Needs</h4>
+            <p>From planning to completion, we help coordinate the work and deliver practical improvements
+that enhance the functionality, appearance, and value of your property.</p>
+            <h4>Building Trust. Delivering Quality.</h4>
+            <br>
+            <h4>Contact us to discuss your next project.</h4>
         </div>
     `,
     contact: `
