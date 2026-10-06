@@ -78,7 +78,13 @@ within weeks of advertising.</p>
 services exclusively for Crystal Age Developments Group properties, ensuring our tenants enjoy
 a well-maintained, responsive, and positive living experience.</p>
             <h2>Current Listings</h2><br>
+            No listings at present
         <div class="grid grid-cols-2 gap-4">
+            
+            </div>
+            <br>
+            <h2>Previous Listings</h2>
+            <div class="grid">
                 <div class="card">
                     <h4>Stapleton Street</h4>
                     <i style='font-size=8'>Scroll for pictures</i>
@@ -89,12 +95,8 @@ a well-maintained, responsive, and positive living experience.</p>
                         <img src="listings/stapleton/3.jpg" width="600" height="400">
                         <img src="listings/stapleton/4.jpg" width="600" height="400">
                     </div>
+                    <br><p>Leased</p>
                 </div>
-            <div></div> <!-- empty grid cell -->
-            </div>
-            <br><br>
-            <h2>Previous Listings</h2>
-            <div class="grid">
                 <div class="card">
                     <h4>Sylvya Ct</h4>
                     <i style='font-size=8'>Scroll for pictures</i>
