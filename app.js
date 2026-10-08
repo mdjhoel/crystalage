@@ -297,7 +297,7 @@ day-to-day property support.</p>
     `,
         renovations: `
         <div class="page-fade">
-            <h1>General contracting</h1>
+            <h1>General Contracting</h1>
             <h4>Quality Work. Practical Solutions.</h4>
             <p>CADG provides residential general contracting, renovation, remodeling, and property
 improvement services for homeowners, landlords, and property owners.</p>
@@ -312,6 +312,7 @@ improvement services for homeowners, landlords, and property owners.</p>
                 <li>Deck and property upgrades</li>
                 <li>Rental property renovations</li>
                 <li>Project coordination</li>
+                <li>Landscaping</li>
             </ul>
             <br>
             <p>Whether it is a small repair or a larger renovation, CADG focuses on quality workmanship, clear
